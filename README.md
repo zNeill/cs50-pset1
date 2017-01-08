@@ -2,7 +2,7 @@
 CS50 Coursework:  
 https://cs50.harvard.edu/
 
-Problem Set 1: 
+Problem Set 1:
 http://cdn.cs50.net/2016/x/psets/1/pset1/pset1.html
 
 # What does it do?
